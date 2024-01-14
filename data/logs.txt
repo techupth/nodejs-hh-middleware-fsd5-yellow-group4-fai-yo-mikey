@@ -1,0 +1,3 @@
+
+IP: ::1, GET, /assignments/
+IP: ::1, GET, /assignments/2
